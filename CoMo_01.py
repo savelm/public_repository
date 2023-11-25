@@ -620,3 +620,5 @@ if odeslat:
         utok_nazev = odpoved_json["types"]
         for ability in utok_nazev:
             st.write(ability["type"]["name"])
+
+# test            
